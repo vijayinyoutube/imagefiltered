@@ -20,7 +20,11 @@ To know more awesome content about Flutter.,
 
 Visit my channel 👉 : https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ
 
+## Quick Look
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/58719230/105180669-e0164800-5b50-11eb-8b0f-e096853e87e3.png" width="100%">
+</p>
 
 
 ## Sample Results
